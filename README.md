@@ -135,4 +135,4 @@ Credentials are stored only as GitHub Secrets. Nothing sensitive is committed to
 ## Author
 
 **Nilesh Katalkar**
-[LinkedIn](https://linkedin.com/in/nilesh-katalkar-984385195/) · [Digital Resume](https://nileshk27.github.io/resume/) · [GitHub](https://github.com/Nileshk27)
+[LinkedIn](https://linkedin.com/in/nilesh-katalkar-984385195/) · [Digital Resume](https://nileshkatalkar.github.io/resume/) · [GitHub](https://github.com/Nileshkatalkar)
